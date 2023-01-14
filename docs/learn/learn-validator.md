@@ -280,9 +280,6 @@ For detailed information about chain selection see dedicated section in
 
 ### Validator Stats
 
-- [HashQuark Staking Strategy](https://polkacube.hashquark.io/#/polkadot/strategy) - The HashQuark
-  staking strategy dashboard helps you choose the optimal set-up to maximize rewards, and provides
-  other useful network monitoring tools.
 - [Polkastats](https://polkastats.io/) - Polkastats is a cleanly designed dashboard for validator
   statistics.
 - [YieldScan](https://yieldscan.app/) - Staking yield maximization platform, designed to minimize
